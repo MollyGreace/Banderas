@@ -1,3 +1,7 @@
+/*Estilos de la página en general*/
+ {
+  background-image: "C://Users/Molly/Desktop/Banderas-ghpage/assets/docs/global-communication-background003.jpg";
+}
 /*Estilos de la página 01*/
 #part1 p.backg-01,#part1 p.backg-03 {
   background-color: rgba(255, 208, 0, 0.836);
